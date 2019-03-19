@@ -1,0 +1,14 @@
+# Comments about the inputs
+# Every line is a list
+# There can be several inputs (tests in a single file) 
+Input:
+12
+345
+Output:
+345
+----------
+Input:
+12
+345
+Output:
+345
